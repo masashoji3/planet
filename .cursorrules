@@ -4,11 +4,12 @@
 （何を作るか1〜2行）
 
 ## 参照ドキュメント（必ず読むこと）
-- 概要・NG事項 : C:/work3/01_事業_Business/Web制作_WebDev/PLANET/docs/00_project_context.md
-- 要件定義     : C:/work3/01_事業_Business/Web制作_WebDev/PLANET/docs/01_requirements.md
-- デザイン     : C:/work3/01_事業_Business/Web制作_WebDev/PLANET/docs/03_design_system.md
-- タスク       : C:/work3/01_事業_Business/Web制作_WebDev/PLANET/docs/06_tasks.md
-- 共通AIルール : C:/work3/01_事業_Business/Web制作_WebDev/00_共通_Common/00_ai_rules.md
+- 概要・NG事項 : C:/work3/01_事業_Business/Web制作_WebDev/PLANET/docs_仕様書/00_project_context.md
+- 要件定義     : C:/work3/01_事業_Business/Web制作_WebDev/PLANET/docs_仕様書/01_requirements.md
+- デザイン     : C:/work3/01_事業_Business/Web制作_WebDev/PLANET/docs_仕様書/03_design_system.md
+- タスク       : C:/work3/01_事業_Business/Web制作_WebDev/PLANET/docs_仕様書/06_tasks.md
+- 共通AIルール       : C:/work3/01_事業_Business/Web制作_WebDev/00_共通_Common/00_ai_rules.md
+- 共通コンポーネント : C:/work3/01_事業_Business/Web制作_WebDev/00_共通_Common/01_component_rules.md
 
 ## 決定事項と却下案（要約）
 -
